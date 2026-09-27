@@ -20,33 +20,52 @@ The project starts with a Logistic Regression baseline and progressively evaluat
 The complete workflow is:
 
 Dataset
+
    ↓
+   
 Data exploration
+
    ↓
+
 Data quality checks
+
    ↓
+
 Feature / target separation
+
    ↓
+
 Train-test split
+
    ↓
+
 Logistic Regression baseline
    ↓
+
 Feature scaling
    ↓
+
 Cross-validation
    ↓
+
 SVM
    ↓
+
 Random Forest
    ↓
+
 Model comparison
    ↓
+
 SVM hyperparameter tuning
    ↓
+
 Final evaluation
    ↓
 Error analysis
+   
    ↓
+
 Prediction on new data
 
 ---
@@ -54,36 +73,69 @@ Prediction on new data
 ### What all i learned from this project
 
 Core ML Concepts
+
 Supervised learning
+
 Binary classification
+
 Features and targets
+
 Training data and test data
+
 Model fitting
+
 Prediction
+
 Generalization
+
 Data leakage
+
 Reproducibility
+
 Data Preparation
+
 Loading datasets with Pandas
+
 Inspecting dataset structure
+
 Checking missing values
+
 Checking duplicate observations
+
 Understanding class distribution
+
 Separating features from targets
+
 Splitting data using stratification
+
 Model Development
+
 Logistic Regression
+
 Feature scaling with StandardScaler
+
 Support Vector Machines
+
 Random Forest
+
 Cross-validation
+
 Hyperparameter tuning with GridSearchCV
+
 Model Evaluation
+
 Accuracy
+
 Confusion matrix
+
 Precision
+
 Recall
+
 F1 score
+
 Error analysis
+
 Held-out test evaluation
+
 Experimental Thinking
