@@ -17,9 +17,4 @@ The lab focuses on understanding the concepts behind the models, experimenting w
 
 Each project lives in its own directory with its own README containing the implementation details, experiments, results, and learnings.
 
-```text
-Machine-Learning-Lab/
-├── project-1/
-├── project-2/
-├── project-3/
-└── README.md
+
