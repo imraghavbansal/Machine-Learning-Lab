@@ -2,8 +2,6 @@
 
 A hands-on collection of machine learning projects, implementations, and experiments built while learning and strengthening ML fundamentals.
 
-The lab focuses on understanding the concepts behind the models, experimenting with different approaches, and learning through practical implementation.
-
 ## Focus
 
 - Machine learning fundamentals
